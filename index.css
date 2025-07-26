@@ -76,7 +76,7 @@ b
 
 .navigation a:hover
 {
-    color: darkorange;
+    color: rgb(248, 170, 0);
     font-weight: normal;
 }
 
@@ -116,16 +116,6 @@ b
     font-style: italic;
     font-weight: bold;
     color: #d14e08;
-}
-
-.alert
-{
-    font-style: italic;
-}
-
-.alert-warning
-{
-    border: 2px solid orange;
 }
 
 .footer
