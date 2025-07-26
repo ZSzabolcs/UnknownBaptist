@@ -1,0 +1,156 @@
+body
+{
+    background-color: white;
+}
+
+p
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    text-align: justify;
+}
+
+h1
+{
+    font-family: 'Varela Round', sans-serif;
+}
+
+h2
+{
+    margin-top: 35px;
+    padding-bottom: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h3
+{
+    margin-top: 35px;
+    padding-bottom: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+li{
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    text-align: justify;
+}
+
+b
+{
+    color: #d14e08;
+}
+
+.borito
+{
+    background-color: skyblue;
+    height: 300px;
+    color: white;
+    padding-top: 100px;
+}
+
+.cim
+{
+    font-size: 70px;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.alcim
+{
+    margin-top: 60px;
+}
+
+.navigation
+{
+    background-color: bisque;
+    border: 1px solid orange;
+    font-size: larger;
+}
+
+.navigation a
+{
+    text-decoration: none;
+    color: darkorange;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.navigation a:hover
+{
+    color: darkorange;
+    font-weight: normal;
+}
+
+.title
+{
+    margin-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 82%;
+    text-align: center;
+}
+
+.paragraph
+{
+    padding-left: 20px;
+    border-left: 3px dotted olivedrab;
+}
+
+.megjegyzes
+{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-left: 3px solid rgb(173, 171, 171);
+    font-style: italic;
+    color: rgb(75, 73, 73);
+}
+
+.important
+{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1220px;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    color: #d14e08;
+}
+
+.alert
+{
+    font-style: italic;
+}
+
+.alert-warning
+{
+    border: 2px solid orange;
+}
+
+.footer
+{
+    display: flex;  
+    left: 0;
+    bottom: 0;
+    background-color:rgb(197, 195, 195);
+}
+
+.footer-text p
+{
+    margin-left: 330px;
+    text-align: center;
+    font-family: 'Suez One', serif;
+}
+
+.date
+{
+    margin-right: 15px;
+    margin-left: auto;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+}
+
+.footer p
+{
+    font-size: xx-large;
+}
