@@ -134,14 +134,14 @@ b{
 .cikk{
     border: 1px solid black;
     font-size: x-large;
-    width: 250px;
+    width: 300px;
+    height: 150px;
     margin: 10px;
 }
 
 .cikk:hover{
     background-color: bisque;
 }
-
 
 .cikk a{
     color: black;
