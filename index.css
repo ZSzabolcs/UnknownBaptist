@@ -144,7 +144,8 @@ b{
     display: flex;  
     left: 0;
     bottom: 0;
-    background-color:rgb(197, 195, 195);
+    background-color:skyblue;
+    border: 1px solid rgb(15, 145, 196);
 }
 
 .footer-text p{
@@ -178,4 +179,17 @@ b{
 
 .cikk a{
     color: black;
+}
+
+@media only screen and (max-width: 600px){
+    p, li{
+        text-align: left;
+    }
+}
+
+@media only screen and (max-width: 1800px){
+    .footer-text p{
+        text-align: left;
+        margin-left: 0px;
+    }
 }
