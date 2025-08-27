@@ -192,4 +192,7 @@ b{
         text-align: left;
         margin-left: 0px;
     }
+    .important{
+        width: fit-content;
+    }
 }
