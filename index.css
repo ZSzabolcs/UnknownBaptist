@@ -52,7 +52,11 @@ header h3{
 
 a{
     text-decoration: none;
-    color: darkolivegreen
+    color: rgb(6, 96, 181)
+}
+
+a:hover{
+    color: rgb(15, 147, 230);
 }
 
 p{
