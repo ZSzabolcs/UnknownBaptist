@@ -133,6 +133,11 @@ b{
     color: rgb(75, 73, 73);
 }
 
+.info{
+    color: rgb(130, 127, 127);
+    font-style: italic;
+}
+
 .important{
     padding-left: 30px;
     padding-top: 15px;
